@@ -1,2 +1,2 @@
-# ZItec
-QA Automation for http://automationpractice.com/index.php
+# Diving in Cypress usage
+QA Automation example for http://automationpractice.com/index.php
